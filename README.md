@@ -1,7 +1,7 @@
 # TensorFlow-2.0-Advanced
 
 
-This repository is a record of what I studied in a lecture on making machine learning models provided by Udemy with Python.
+This repository is a record of what I studied in a course on building tensorflow deep learning and artificial intelligence models in Python provided by Udemy.
 <br>
 [Lecture_Link]
 
